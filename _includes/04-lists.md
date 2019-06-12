@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- :meat_on_bone: Cooking
+- :bike: Exploring
+- :video_game: Gaming
